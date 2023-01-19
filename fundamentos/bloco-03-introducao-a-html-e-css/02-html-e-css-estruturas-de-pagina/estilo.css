@@ -1,11 +1,17 @@
+body{
+    font-size: 16px;
+}
 h1{
-    font-size: 65px;
-    color: orange;
+   font-family:sans-serif;
+}
+p{
+    font-weight: 600;
+    font-size: 48px;
 }
 ul{
-    background-color: aqua;
-}
-.modifica{
-   font-size: large;
-
+    font-style: inherit;
+    line-height: normal;
+    text-align: justify;
+    text-decoration: solid;
+    background-color: white;
 }
